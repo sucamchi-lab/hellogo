@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(mystrings.Reverse("hello world"))
+	fmt.Println("Hello, World!")
 }
